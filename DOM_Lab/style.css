@@ -60,7 +60,7 @@
     background-color: var(--top-menu-bg);
   }
   
-  nav a.active {
+  nav .active {
     background-color: var(--sub-menu-bg);
     color: var(--main-bg);
   }
